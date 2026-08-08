@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Mission-House.github.io/reference-1d64no/sitemap.xml
